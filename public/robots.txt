@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+# [UZUPEŁNIJ] po wdrożeniu własnej domeny wstaw jej adres:
+# Sitemap: https://[UZUPEŁNIJ-DOMENA]/sitemap.xml
